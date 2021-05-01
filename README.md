@@ -1,4 +1,3 @@
-# E-commerce Back End Starter Code
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
